@@ -109,6 +109,10 @@ RoadMap
 
 Conforme el equipo de trabajo vaya utilizando esta nueva herramienta para almacenar la información, va a ser más fácil la búsqueda de los proveedores existentes
 
+Travis
+
+https://app.travis-ci.com/MagicTolentino/Actividad3_Taller.svg?branch=main
+
 Creditos
 
 Desarrollado por: Miguel Garcia 02888663
